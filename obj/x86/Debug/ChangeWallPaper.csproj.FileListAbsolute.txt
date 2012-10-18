@@ -1,0 +1,6 @@
+C:\Dev\ChangeWallPaper\bin\Debug\ChangeWallPaper.exe
+C:\Dev\ChangeWallPaper\bin\Debug\ChangeWallPaper.pdb
+C:\Dev\ChangeWallPaper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\ChangeWallPaper\obj\x86\Debug\ChangeWallPaper.exe
+C:\Dev\ChangeWallPaper\obj\x86\Debug\ChangeWallPaper.pdb
+C:\Dev\ChangeWallPaper\bin\Debug\ChangeWallPaper.exe.config

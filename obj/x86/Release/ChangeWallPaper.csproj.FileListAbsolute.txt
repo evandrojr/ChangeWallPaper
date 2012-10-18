@@ -1,0 +1,7 @@
+C:\Users\93274300500\AppData\Local\Temporary Projects\ChangeWallPaper\bin\Release\ChangeWallPaper.exe
+C:\Users\93274300500\AppData\Local\Temporary Projects\ChangeWallPaper\bin\Release\ChangeWallPaper.pdb
+C:\Users\93274300500\AppData\Local\Temporary Projects\ChangeWallPaper\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\93274300500\AppData\Local\Temporary Projects\ChangeWallPaper\obj\x86\Release\ChangeWallPaper.exe
+C:\Users\93274300500\AppData\Local\Temporary Projects\ChangeWallPaper\obj\x86\Release\ChangeWallPaper.pdb
+C:\Dev\ChangeWallPaper\obj\x86\Release\ChangeWallPaper.exe
+C:\Dev\ChangeWallPaper\obj\x86\Release\ChangeWallPaper.pdb
