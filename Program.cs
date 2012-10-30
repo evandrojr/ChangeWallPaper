@@ -133,7 +133,8 @@ namespace ChangeWallPaper
             System.Console.WriteLine();
             System.Console.WriteLine("Repositório: https://github.com/evandrojr/ChangeWallPaper");
 
-            for (int i = 0; i < 3; ++i) {
+            //12 x 30 segundos = 6 minutos
+            for (int i = 0; i < 12; ++i) {
                 try {
                     if (args.Length > 0)
                         SetDesktopWindows(args[0], Style.Centered);
@@ -151,7 +152,7 @@ namespace ChangeWallPaper
                 } catch (IndexOutOfRangeException ex) {
                     System.Console.WriteLine("Error." + ex.Message + Environment.NewLine + ex.StackTrace);
                 }
-                Thread.Sleep(2 * 60 * 1000);
+                Thread.Sleep(30 * 1000);
             }
         }
 
